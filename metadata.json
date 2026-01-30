@@ -1,0 +1,9 @@
+{
+  "name": "NimblixPayroll",
+  "description": "A calm, professional, and secure HR & payroll management system designed for enterprise-grade reliability and clarity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
